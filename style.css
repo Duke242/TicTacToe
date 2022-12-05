@@ -12,5 +12,11 @@
     justify-content: center;
     background-color: white;
     border: 5px solid gray;
-  }
+    font-size: 72pt;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 18rem;
+    font-family: sans-serif;
+
+}
   
